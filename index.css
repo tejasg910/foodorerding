@@ -133,7 +133,7 @@ html{
     top: 0px;
     left: 0px;
     content: "";
-    background: url('/images/bg1.jpg') no-repeat center center/cover;
+    background: url('images/bg1.jpg') no-repeat center center/cover;
     position: absolute;
     height: 323px;
     width: 100%;
@@ -211,7 +211,7 @@ html{
 #client-section::before{
    
     content: "";
-    background: url('/images/img3.jpg');
+    background: url('images/img3.jpg');
     width: 100%;
     height: auto;
     z-index: -1;
@@ -225,7 +225,7 @@ html{
     position: relative;
 }
 #contact::before{
-    background: url('/images/contactus.jpg') no-repeat center center/cover;
+    background: url('images/contactus.jpg') no-repeat center center/cover;
     position: absolute;
     width: 100%;
     height: 100%;
